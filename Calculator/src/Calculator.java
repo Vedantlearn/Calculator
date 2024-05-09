@@ -8,7 +8,7 @@ public class Calculator implements ActionListener {
 	JButton[] functionButtons = new JButton[9];
 	JButton addButton, subButton, mulButton, divButton;
 	JButton decButton, delButton, equButton, clrButton, negButton;
-	JPanel panel;
+	JPanel panel;                                         
 
 	Font Myfont = new Font("ink free", Font.BOLD, 30);
 
