@@ -16,7 +16,7 @@ public class Calculator implements ActionListener {
 	char operator;
 
 	Calculator() {
-
+   
 		frame = new JFrame("Calculator");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setSize(420, 550);
