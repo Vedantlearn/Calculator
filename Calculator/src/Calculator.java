@@ -5,7 +5,7 @@ public class Calculator implements ActionListener {
 	JFrame frame;
 	JTextField textfield;
 	JButton[] numberButtons = new JButton[10];          
-	JButton[] functionButtons = new JButton[9];   
+	JButton[] functionButtons = new JButton[9];                                   
 	JButton addButton, subButton, mulButton, divButton;
 	JButton decButton, delButton, equButton, clrButton, negButton;
 	JPanel panel;                                         
