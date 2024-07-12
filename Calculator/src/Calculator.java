@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 public class Calculator implements ActionListener {  
-	JFrame frame;
+	JFrame frame;    
 	JTextField textfield;
 	JButton[] numberButtons = new JButton[10];          
 	JButton[] functionButtons = new JButton[9];                                   
