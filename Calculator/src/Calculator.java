@@ -9,7 +9,7 @@ public class Calculator implements ActionListener {
 	JButton addButton, subButton, mulButton, divButton;
 	JButton decButton, delButton, equButton, clrButton, negButton;     
 	JPanel panel;                                         
-   
+      
 	Font Myfont = new Font("ink free", Font.BOLD, 30); 
 
 	double num1 = 0, num2 = 0, result = 0;                
